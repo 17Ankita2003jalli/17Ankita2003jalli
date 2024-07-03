@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Backend technologies**
 
-- 📫 How to reach me **ankitajalli17@gmail.com**
+- 📫 You can reach me at **ankitajalli17@gmail.com**
 
-- ⚡ Fun fact **I have multiple hobbies**
+- ⚡ Fun fact is **I have multiple hobbies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
