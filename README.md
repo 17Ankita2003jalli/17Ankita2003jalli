@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@jalliankit70755" target="blank"><img src="https://img.shields.io/twitter/follow/@jalliankit70755?logo=twitter&style=for-the-badge" alt="@jalliankit70755" /></a> </p>
 
-- 🌱 I’m currently learning **Backend technologies**
+- 🌱 I’m currently learning **Android Development**
+
+- 👀 I'M seeking opportunities for **Android Development and Backend Development**
 
 - 📫 You can reach me at **ankitajalli17@gmail.com**
 
